@@ -5,10 +5,10 @@ Developed a fun and interactive JavaScript dice roller application. Users can sp
 
 Features:
 
-Multiple Dice Rolling: Throw any number of dice (within reasonable limits) simultaneously.
+1. Multiple Dice Rolling: Throw any number of dice (within reasonable limits) simultaneously.
 
-Customizable Dice Sides: Specify the number of sides for each die (e.g., d4, d6, d8, d10, d12, d20).
+2. Customizable Dice Sides: Specify the number of sides for each die (e.g., d4, d6, d8, d10, d12, d20).
 
-Clear Results: View the individual roll results for each die and the total sum.
+3. Clear Results: View the individual roll results for each die and the total sum.
 
-User-Friendly Interface: The interface (details depend on your implementation) makes rolling dice a breeze.
+4. User-Friendly Interface: The interface (details depend on your implementation) makes rolling dice a breeze.
